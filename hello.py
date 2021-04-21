@@ -1,2 +1,2 @@
-print("hello pm!")
+print("master")
 
